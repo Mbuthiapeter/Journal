@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184499439294",
+    "firebase_url": "https://journal-app-e3222.firebaseio.com",
+    "project_id": "journal-app-e3222",
+    "storage_bucket": "journal-app-e3222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184499439294:android:283f44079aabe3e4",
+        "android_client_info": {
+          "package_name": "com.friki.mbuthia.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184499439294-jd7kgb0fc4hjinba03ngsjapm741m5es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friki.mbuthia.journalapp",
+            "certificate_hash": "7018e35de48b515fb83266f04dce0d852fe3ce0f"
+          }
+        },
+        {
+          "client_id": "184499439294-v5u707c6oteea432bi31p8rhpempg8it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZ90D1IPPowkXCcbY6vP9IF_Pn9F-3ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184499439294-v5u707c6oteea432bi31p8rhpempg8it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

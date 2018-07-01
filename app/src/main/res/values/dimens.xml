@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_padding">16dp</dimen>
+    <dimen name="register_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="journal_list_padding">16dp</dimen>
+    <dimen name="date_margin_top">16dp</dimen>
+</resources>
